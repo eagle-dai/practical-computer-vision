@@ -5,29 +5,16 @@
 ![](images/image_embeddings_zero_cluster.gif)
 ***Visualizing image embeddings in a 2D space***
 
-## Workshop 1 
-* [Slides](https://docs.google.com/presentation/d/1BkEzPR7HGW__A10dYyazOFfKugZyzt1KRA0JjoexhPs/edit#slide=id.g2d9757e8c09_1_12)
-* [Intuitions about Image Embeddings and Pairwise Comparison](notebooks/Tutorial_Part1_Pairwise_Comparison_of_Embeddings.ipynb)
-* [Scraping Public Domain Artwork from Bing Images](image_scraping/Download_Images_from_Bing_to_Google_Drive.ipynb)
-* [Extracting Embeddings with a Pretrained Resnet34](notebooks/Part2_Creating_Embeddings_from_Resnet34.ipynb)
-* [Visualizing Embedding and Clustering Vector Spaces](notebooks/FiftyOne_Visualize_and_Cluster_Embeddings.ipynb)
-
-## Workshop 2 
-* [Slides](slides/Image%20Dataset%20Curation%20-%20Art%20Recommendation%20-%20Workshop%202.pdf)
-* [Running FiftyOne on a Github Codespace](https://github.com/andandandand/fiftyone-getting-started)
-* [Image Neighborhoods](notebooks/Tutorial_Part3_Image_Neighborhoods_and_Clustering_of_Street_Artwork.ipynb)
-* [Visualizing Image Vector Spaces using Tensorboard](notebooks/Tutorial_Part5_Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
-
-## Workshop 3
-* [Slides](slides/Image%20Dataset%20Curation%20-%20Workshop%203.pdf)
-* [Downloading Lion-related images from Bing](image_scraping/Download_Images_from_Bing_to_Google_Drive_Lion_Experiments.ipynb)
-* [Running Imagenet-pretrained Resnets for classification](notebooks/Tutorial_Part4_Labeling_Images_with_a_Pretrained_Resnet.ipynb)
-* [Fine-tuning a Resnet for multilabel classification](notebooks/Tutorial_Part6_Finetuning_a_Resnet_for_Multilabel_Classification.ipynb)
-
-## Workshop 4
-* [Slides](slides/Image%20Dataset%20Curation%20-%20Workshop%204.pdf)
-* [Introduction to CLIP and Zero Shot Classification](notebooks/Tutorial_Part7_Intro_to_CLIP_ZeroShot_Classification.ipynb)
-* [Dataset Cleaning with Cleanlab and CLIP](notebooks/Tutorial_Part8_Cleanlab_and_CLIP.ipynb)
+* [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pairwise_Comparison_of_Embeddings.ipynb)
+* [Scraping Public Domain Artwork from Bing Images](https://github.com/andandandand/practical-computer-vision/blob/main/image_scraping/Download_Images_from_Bing_to_Google_Drive.ipynb)
+* [Extracting Embeddings with a Pretrained Resnet34](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Creating_Embeddings_from_Resnet34.ipynb)
+* [Visualizing Embedding and Clustering Vector Spaces with FiftyOne](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Visualize_and_Cluster_Embeddings_with_FiftyOne.ipynb)
+* [Visualizing Image Embeddings with TensorBoard](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Visualizing_Image_Embeddings_with_Tensorboard.ipynb)
+* [Running FiftyOne on a Github Codespace](https://github.com/andandandand/fiftyone-getting-started/tree/main)
+* [Image Neighborhoods with sklearn](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Image_Neighborhoods_and_Clustering_of_Street_Artwork.ipynb)
+* [Running Imagenet-pretrained Resnets for classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Labeling_Images_with_a_Pretrained_Resnet.ipynb)
+* [Fine-tuning a Resnet for multilabel classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Finetuning_a_Resnet_for_Multilabel_Classification.ipynb)
+* [Introduction to CLIP and Zero Shot Classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Intro_to_CLIP_ZeroShot_Classification.ipynb)
 
 
 
