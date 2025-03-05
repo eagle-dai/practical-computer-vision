@@ -17,6 +17,10 @@
 * [Fine-tuning a Resnet for multilabel classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Finetuning_a_Resnet_for_Multilabel_Classification.ipynb)
 * [Introduction to CLIP and Zero Shot Classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Intro_to_CLIP_ZeroShot_Classification.ipynb)
 
+## Watch the Series on YouTube
+
+[YouTube Playlist](https://youtu.be/DQlngcHaKd4)
+
 
 
 #### Author: Antonio Rueda-Toicen
