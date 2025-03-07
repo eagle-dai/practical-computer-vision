@@ -21,8 +21,11 @@
 
 [YouTube Playlist](https://youtu.be/DQlngcHaKd4)
 
-## Discuss with the community on Discord
+## Discuss with the Community on Discord
 [FiftyOne community Discord](https://discord.com/invite/fiftyone-community) find us in the channel **#practical-computer-vision-workshops**
+
+## Contact and Pull Requests
+Feel free to fork and use the content, please keep the Creative Commons Attribution License. 
 
 #### Author: Antonio Rueda-Toicen
 
