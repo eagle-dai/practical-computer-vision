@@ -22,7 +22,8 @@
 [YouTube Playlist](https://youtu.be/DQlngcHaKd4)
 
 ## Discuss with the community on Discord
-[FiftyOne community Discord](https://discord.com/invite/fiftyone-community) channel: **#practical-computer-vision-workshops**
+[FiftyOne community Discord](https://discord.com/invite/fiftyone-community) 
+Channel: **#practical-computer-vision-workshops**
 
 #### Author: Antonio Rueda-Toicen
 
