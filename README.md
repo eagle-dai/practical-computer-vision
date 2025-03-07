@@ -19,7 +19,7 @@
 
 ## Watch the Series on YouTube
 
-[YouTube Playlist](https://youtu.be/DQlngcHaKd4)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH)
 
 ## Discuss with the Community on Discord
 [FiftyOne community Discord](https://discord.com/invite/fiftyone-community) find us in the channel **#practical-computer-vision-workshops**
