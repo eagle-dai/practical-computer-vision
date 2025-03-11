@@ -5,6 +5,7 @@
 ![](images/image_embeddings_zero_cluster.gif)
 ***Visualizing image embeddings in a 2D space***
 
+* [Setting up GPU and TPU usage on Kaggle Noteboks](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kaggle-gpu-tpu-guide.md)
 * [Digital Image Representation in PIL, NumPy, and PyTorch](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Digital_Image_Representation_PIL_NumPy_PyTorch.ipynb)
 * [Training a Perceptron for Image-based Regression](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Training_a_Perceptron_for_Image_based_Regression.ipynb)
 * [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pairwise_Comparison_of_Embeddings.ipynb)
