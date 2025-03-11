@@ -3,7 +3,7 @@
 Kaggle gives you free access to faster computers (GPUs and TPUs) to speed up your machine learning projects. This guide will show you how to use them.
 
 ## Table of Contents
-1. [Understanding Kaggle's Speed Boosters](#understanding-kaggles-speed-boosters)
+1. [Understanding Kaggle's Accelerators](#understanding-kaggles-speed-boosters)
 2. [Setting Up a Kaggle Account](#setting-up-a-kaggle-account)
 3. [Creating a New Notebook](#creating-a-new-notebook)
 4. [Turning On GPU/TPU](#turning-on-gputpu)
@@ -12,11 +12,11 @@ Kaggle gives you free access to faster computers (GPUs and TPUs) to speed up you
 7. [Fixing Common Problems](#fixing-common-problems)
 8. [Example Code](#example-code)
 
-## Understanding Kaggle's Speed Boosters
+## Understanding Kaggle's Accelerators
 
 Kaggle offers three types of computers:
 
-- **Regular Computer (CPU)**: The basic option that works for simple tasks.
+- **Regular Computer (CPU)**: The basic option that works for simple tasks (no accelerator added).
 - **Graphics Card (GPU)**: NVIDIA P100, much faster for machine learning.
 - **Dual T4 GPUs**: Two NVIDIA T4 GPUs that work together, great for larger models or faster training.
 - **Special Chip (TPU)**: Google's custom chip, extremely fast for certain tasks.
@@ -85,7 +85,7 @@ Once your phone is verified, you can use GPUs and TPUs in your notebooks.
 
 1. In your notebook, click on the "Settings" button on the right side.
 2. Under "Accelerator," you'll see four options:
-   - None (regular computer)
+   - None (regular computer with no accelerator attached)
    - GPU P100 (faster graphics card)
    - GPU T4 x2 (two T4 graphics cards working together)
    - TPU (special chip)
