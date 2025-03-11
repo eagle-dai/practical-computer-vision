@@ -115,7 +115,7 @@ print("TPU Cores: ", xm.xrt_world_size() if xm.is_available() else "No TPU")
 
 ## Time Limits and Tips
 
-Kaggle limits how much you can use these faster computers:
+Kaggle limits how much you can use these accelerators:
 
 - **GPU**: 30 hours per week
 - **TPU**: 20 hours per week
