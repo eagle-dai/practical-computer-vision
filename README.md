@@ -8,6 +8,7 @@
 ## Setting up 
 
 * [Setting up GPU and TPU usage on Kaggle Noteboks](https://github.com/andandandand/practical-computer-vision/blob/main/docs/kaggle-gpu-tpu-guide.md)
+* [Setting up a wandb API token and using it on Kaggle Notebooks and Google Colab](https://github.com/andandandand/practical-computer-vision/blob/main/docs/setup-wandb.md)
 
 ## Tutorial Notebooks
 
