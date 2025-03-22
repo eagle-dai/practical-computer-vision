@@ -68,21 +68,13 @@ print("W&B login successful!")
 ## Using the API Key in Kaggle
 
 ```python
-# Import the libraries
-import os
 import wandb
-
-# Verify login
+import os
+from kaggle_secrets import UserSecretsClient
+secret_label = "WANDB_API_KEY"
+secret_value = UserSecretsClient().get_secret(secret_label)
+os.environ['WANDB_API_KEY'] = secret_value
 wandb.login()
-# The API key is automatically loaded from secrets
-# Initialize a W&B run
-wandb.init(project="your-project-name")
-
-# Log some metrics
-wandb.log({"accuracy": 0.9, "loss": 0.1})
-
-# End the run when finished
-wandb.finish()
 ```
 
 
