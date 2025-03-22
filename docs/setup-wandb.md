@@ -34,11 +34,11 @@ We use `wandb` to save trained PyTorch models, FiftyOne datasets, and performanc
 ## Add API Key to Colab
 
 1. Open your Colab notebook
-2. Click the "Key" icon in the left sidebar
+2. Click the "Secrets" icon in the left sidebar (looks like a key)
 3. Click "Add new secret"
 4. Set the name as `WANDB_API_KEY`
 5. Paste your API key as the value
-6. Click "Save"
+6. Grant notebook access to the Secret entry
 
 ## Using the API Key in Colab
 
