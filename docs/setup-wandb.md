@@ -4,6 +4,12 @@ This guide shows you how to set up a W&B (aka `wandb`) account and use your API 
 
 We use `wandb` to save trained PyTorch models, FiftyOne datasets, and performance metrics obtained during training, validation, and testing. 
 
+`wandb` is a [Python package](https://pypi.org/project/wandb/). It comes preinstalled on both Kaggle and Google Colab. If you want to run it on your local machine, you will need to run 
+
+```
+pip install wandb
+```
+
 ## Create an Account on W&B
 
 1. Go to https://wandb.ai/
@@ -77,7 +83,9 @@ wandb.log({"accuracy": 0.9, "loss": 0.1})
 wandb.finish()
 ```
 
-## Test Your Setup
+
+
+## Test your setup in any of the above configurations
 
 Run this code to verify everything works:
 
