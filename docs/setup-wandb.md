@@ -15,7 +15,7 @@ We use `wandb` to save trained PyTorch models, FiftyOne datasets, and performanc
 
 ## Get Your API Key
 
-1. Log in to your W&B account
+1. Log in to your W&B account, and go to to https://wandb.ai/authorize, you can copy the key from there. Alternatively, you can follow the next steps. 
 2. Click your profile picture in the top-right corner
 3. Select "Settings"
 4. Click on "API keys" in the left sidebar
