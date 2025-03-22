@@ -50,6 +50,7 @@ pip install wandb
 
 ```python
 # Access the W&B API key from Colab secrets
+import wandb
 import os
 from google.colab import userdata
 
@@ -60,7 +61,6 @@ api_key = userdata.get('WANDB_API_KEY')
 os.environ["WANDB_API_KEY"] = api_key
 
 # Verify login
-import wandb
 wandb.login()
 print("W&B login successful!")
 ```
@@ -72,6 +72,8 @@ print("W&B login successful!")
 import os
 import wandb
 
+# Verify login
+wandb.login()
 # The API key is automatically loaded from secrets
 # Initialize a W&B run
 wandb.init(project="your-project-name")
