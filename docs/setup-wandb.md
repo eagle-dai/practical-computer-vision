@@ -36,6 +36,7 @@ pip install wandb
 5. Name it `WANDB_API_KEY`
 6. Paste your API key in the value field
 7. Click "Create"
+8. Make sure that the entry is set with a checkbox to its left so that the key is usable in the Kaggle notebook
 
 ## Add API Key to Colab
 
