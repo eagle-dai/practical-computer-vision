@@ -67,13 +67,16 @@ wandb.login()
 ## Using the API Key in Kaggle
 
 ```python
+# Access the W&B API key from Kaggle secrets
 import wandb
 import os
 from kaggle_secrets import UserSecretsClient
 
+# Get API key from secrets
 secret_label = "WANDB_API_KEY"
 secret_value = UserSecretsClient().get_secret(secret_label)
 
+# Set the environment variable
 os.environ['WANDB_API_KEY'] = secret_value
 wandb.login()
 ```
