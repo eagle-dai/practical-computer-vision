@@ -88,8 +88,6 @@ wandb.login()
 Run this code to verify everything works:
 
 ```python
-import wandb
-
 # Start a new run
 wandb.init(project="test-project")
 
