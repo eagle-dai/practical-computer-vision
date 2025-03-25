@@ -14,6 +14,7 @@
 
 * [Digital Image Representation in PIL, NumPy, and PyTorch](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Digital_Image_Representation_PIL_NumPy_PyTorch.ipynb)
 * [Training a Perceptron for Image-based Regression](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Training_a_Perceptron_for_Image_based_Regression.ipynb)
+* [Fundamentals of Convolutional Networks with LeNet5 on Kaggle's Digit Recognition Competition](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Kaggle_Competition_LeNet5_Digit_Recognition.ipynb)
 * [Classifying Pet Images by Breed](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pet_Classification.ipynb)
 * [Intuitions about Image Embeddings and Pairwise Comparison](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Pairwise_Comparison_of_Embeddings.ipynb)
 * [Scraping Public Domain Artwork from Bing Images](https://github.com/andandandand/practical-computer-vision/blob/main/image_scraping/Download_Images_from_Bing_to_Google_Drive.ipynb)
