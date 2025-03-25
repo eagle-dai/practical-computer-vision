@@ -34,7 +34,7 @@
 
 ## Discuss with the FiftyOne Community on Discord
 You can find us in the channel **#practical-computer-vision-workshops**
-[FiftyOne community Discord - Invite Link](https://discord.com/invite/fiftyone-community) 
+* [FiftyOne community Discord - Invite Link](https://discord.com/invite/fiftyone-community) 
 
 ## Contact and Pull Requests
 Feel free to fork and use the content, please keep the Creative Commons Attribution License. 
