@@ -1,6 +1,7 @@
 # Review Questions - Practical Computer Vision with PyTorch and FiftyOne
 * [View Playlist on YouTube](https://youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&si=S_1oT8AHTVFIpuv5)
 
+* [Practical Notebooks](https://github.com/andandandand/practical-computer-vision/tree/main/notebooks)
 
 ## Video 1 - Common Tasks in Computer Vision
 * [Watch Video 1 on YouTube](https://youtu.be/VcF9i0Kcu30?si=FlC4NaSaMfM90lKb)
