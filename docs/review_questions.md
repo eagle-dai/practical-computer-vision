@@ -1,5 +1,9 @@
+# Review Questions - Practical Computer Vision with PyTorch and FiftyOne
+* [View Playlist on YouTube](https://youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&si=S_1oT8AHTVFIpuv5)
+
+
 ## Video 1 - Common Tasks in Computer Vision
-[Watch Video 1 on YouTube](https://www.youtube.com/watch?v=QkOKg4nJ200&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=1)
+* [Watch Video 1 on YouTube](https://youtu.be/VcF9i0Kcu30?si=FlC4NaSaMfM90lKb)
 
 ### **What is the primary goal of computer vision according to the presentation?**
 
@@ -46,7 +50,7 @@ d) Image captioning.
 
 
 ## Video 2 - Digital Image Representation with PIL and NumPy
-[Watch Video 2 on YouTube](https://www.youtube.com/watch?v=jSPlqXJ0hQ0&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=2)
+* [Watch Video 2 on YouTube](https://youtu.be/zMKboz5jwEY?si=mqo57ztFXlnJbwqB)
 
 ### **What is the typical range of intensity values for each channel (grayscale or color) in a digital image commonly encountered from files like JPEG or PNG, and what data type is typically used to store these values?**
 
