@@ -198,7 +198,7 @@ c) To save the current state of the computation graph to disk for later use.
 d) To convert the PyTorch tensor into an equivalent NumPy array for compatibility with other libraries.
 
 
-## Video 4 - Neural Network Fundamentals
+## Video 4 - Introduction to Neural Networks 
 * [Watch Video 4 on YouTube](https://youtu.be/-hLo6ueEQdw?si=LFeJOYpPDSFILRly)
 
 ### **What is the purpose of training a neural network?**
@@ -279,7 +279,7 @@ d) Using a smaller batch size always leads to more stable and faster convergence
 
 
 ## Video 5 - Multilayer Perceptron for Image-based Regression
-* [Watch Video 5 on YouTube](https://youtu.be/cr4NMVKJzaw?si=7od6aViPMYSWI5xs)
+* [Watch Video 5 on YouTube](https://www.youtube.com/watch?v=cr4NMVKJzaw)
 
 ### **What are the three key components of a basic multilayer perceptron architecture illustrated in the initial example? (Assume that all layers are fully connected)**
 
@@ -359,7 +359,7 @@ d) Boundaries that are strictly limited to being hyperplanes in the feature spac
 
 
 ## Video 6 - Matrix Multiplication and Activation Functions
-[Watch Video 6 on YouTube](https://www.youtube.com/watch?v=G7045fV8EHE&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=6)
+* [Watch Video 6 on YouTube](https://youtu.be/w83lLCZiMng?si=TIMQhudVRh-OrrAk)
 
 ### **What is an important aspect to consider regarding the dimensions of matrices during multiplication in neural networks?**
 
@@ -439,7 +439,7 @@ d) To significantly speed up the computation of the forward pass compared to jus
 
 
 ## Video 7 - Building a Feedforward Network for Classification in PyTorch
-[Watch Video 7 on YouTube](https://www.youtube.com/watch?v=j1d0qgOq5ZQ&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=7)
+* [Watch Video 7 on YouTube](https://youtu.be/x4umXrs9MuA?si=xtBMpZ6ibJ-vKlBb)
 
 ### **What is the purpose of the cross entropy loss function when used for image classification?**
 
@@ -497,7 +497,7 @@ d) Gradients
 
 
 ## Video 8 - Metrics for Classification and Experiment Tracking
-[Watch Video 8 on YouTube](https://www.youtube.com/watch?v=wD29LZEeK1g&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=8)
+* [Watch Video 8 on YouTube](https://youtu.be/e1RrEafgUjQ?si=1yipMUYkjjKLXS3c)
 
 ### **Which of the following describes a false negative in a classification problem?**
 
@@ -599,7 +599,7 @@ d) Datasets used for regression tasks rather than classification.
 
 
 ## Video 9 - PyTorch Datasets and DataLoaders
-[Watch Video 9 on YouTube](https://www.youtube.com/watch?v=63TLoaZ4i9M&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=9)
+* [Watch Video 9 on YouTube](https://youtu.be/d2TdTiTLBb0?si=ZVm3QZ96JinlRKuJ)
 
 ### **When doing computer vision tasks, what is the primary purpose of a PyTorch Dataset object?**
 
@@ -646,7 +646,7 @@ d) The total number of layers present in the neural network architecture.
 
 
 ## Video 10 - Fundamentals of Convolutions in Computer Vision
-[Watch Video 10 on YouTube](https://www.youtube.com/watch?v=40riC5DvG-E&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=10)
+* [Watch Video 10 on YouTube](https://youtu.be/M-YWxCUvmnI?si=dlKGY8L95qwnNT1W)
 
 ### **What is the primary purpose of a convolution kernel in image processing?**
 
@@ -726,7 +726,7 @@ d) To directly introduce non-linearity into the convolution operation itself, be
 
 
 ## Video 11 - Pooling in Neural Networks
-[Watch Video 11 on YouTube](https://www.youtube.com/watch?v=eYnffZ5h14M&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=11)
+* [Watch Video 11 on YouTube](https://youtu.be/M-YWxCUvmnI?si=dlKGY8L95qwnNT1W)
 
 ### **What is the primary operation performed by Max Pooling?**
 
@@ -784,7 +784,7 @@ d) It substantially increases the computational cost and memory requirements dur
 
 
 ## Video 12 - Upsampling and Channel Mixing with Convolutions
-[Watch Video 12 on YouTube](https://www.youtube.com/watch?v=c5J8iVqj0PI&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=12)
+* [Watch Video 12 on YouTube](https://youtu.be/AV2wgR_YPpM)
 
 ### **Which operation is known for potentially introducing checkerboard artifacts during image upsampling?**
 
@@ -842,7 +842,7 @@ d) It inherently performs feature selection during the upsampling process, disca
 
 
 ## Video 13 - Normalizing Input Values and Inference with Pretrained Models
-[Watch Video 13 on YouTube](https://www.youtube.com/watch?v=bXzN49ihqAg&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=13)
+* [Watch Video 13 on YouTube](https://youtu.be/0Lz1uDpgVCw)
 
 ### **What is the mathematical operation involved in standard input scaling (normalization)?**
 
@@ -911,7 +911,7 @@ d) From a combination of all available data (training, validation, and test sets
 
 
 ## Video 14 - Binary Cross Entropy Loss
-[Watch Video 14 on YouTube](https://www.youtube.com/watch?v=oVgNnlYgTk4&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=14)
+* [Watch Video 14 on YouTube](https://youtu.be/pM1lHyauY3Q)
 
 ### **Which loss function is best suited for a single-label image classification problem with multiple classes (e.g., classifying digits 0-9, where each image is only one digit)?**
 
@@ -1013,7 +1013,7 @@ d) To reduce the dimensionality of the input data fed into the neural network.
 
 
 ## Video 15 - Skip Connections
-[Watch Video 15 on YouTube](https://www.youtube.com/watch?v=u0uNl3dK_5I&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=15)
+* [Watch Video 15 on YouTube](https://youtu.be/Hi2C-7gN4PU)
 
 ### **What is identified as a significant problem in deep neural network training that skip connections help to resolve?**
 
@@ -1093,7 +1093,7 @@ d) It significantly increases the effective receptive field of the convolutional
 
 
 ## Video 16 - Image Data Augmentation
-[Watch Video 16 on YouTube](https://www.youtube.com/watch?v=0Q0z0qzMBlE&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=16)
+* [Watch Video 16 on YouTube](https://youtu.be/Z6HymBkKoR4)
 
 ### **What is the primary purpose of data augmentation in computer vision tasks?**
 
@@ -1162,7 +1162,7 @@ d) Applied only to the validation and test sets to make the evaluation more chal
 
 
 ## Video 17 - Regularization with Dropout and Batch Normalization
-[Watch Video 17 on YouTube](https://www.youtube.com/watch?v=9iF1fnLhWw4&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=17)
+* [Watch Video 17 on YouTube](https://youtu.be/3kGE1vCmxag)
 
 ### **According to the video, what do both Dropout and Batch Normalization achieve in the context of neural networks?**
 
@@ -1253,7 +1253,7 @@ d) The weights and biases associated with the preceding convolutional or linear 
 
 
 ## Video 18 - Transfer Learning and Fine-tuning
-[Watch Video 18 on YouTube](https://www.youtube.com/watch?v=h275pmt-k5c&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=18)
+* [Watch Video 18 on YouTube](https://youtu.be/_JOYVFW96xY)
 
 ### **What is a primary benefit of using transfer learning for deep learning practitioners?**
 
@@ -1322,7 +1322,7 @@ d) Because the learning rate used during the original ImageNet pre-training was 
 
 
 ## Video 19 - Interpretability with Class Activation Mapping
-[Watch Video 19 on YouTube](https://www.youtube.com/watch?v=zQfLyiCANic&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=19)
+* [Watch Video 19 on YouTube](https://youtu.be/Gs1brxEsG3c)
 
 ### **What is the primary purpose of Class Activation Mapping (CAM) and its variants like Grad-CAM?**
 
@@ -1391,7 +1391,7 @@ d) The resolution of the CAM heatmap might become too low to provide any meaning
 
 
 ## Video 20 - Image Embeddings
-[Watch Video 20 on YouTube](https://www.youtube.com/watch?v=21HAgdGzSj0&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=20)
+* [Watch Video 20 on YouTube](https://youtu.be/2JvSIbM3NHM)
 
 ### **What is the primary purpose of image embedding algorithms?**
 
@@ -1471,7 +1471,7 @@ d) The magnitudes (lengths) of the two embedding vectors are necessarily very di
 
 
 ## Video 21 - Vision Transformers (ViT)
-[Watch Video 21 on YouTube](https://www.youtube.com/watch?v=gQPr3YGTfU4&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=21)
+* [Watch Video 21 on YouTube](https://youtu.be/GCPQVVsoEvs)
 
 ### **What is the purpose of the initial linear projection applied to the flattened image patches in a Vision Transformer (ViT)?**
 
@@ -1551,7 +1551,7 @@ d) The network's ability to generalize its learned knowledge effectively to comp
 
 
 ## Video 22 - CLIP - Contrastive Language-Image Pretraining
-[Watch Video 22 on YouTube](https://www.youtube.com/watch?v=fltu0sC0BRA&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=22)
+* [Watch Video 22 on YouTube](https://youtu.be/Rvy1SrgQlDk)
 
 ### **What is the primary goal of Contrastive Language-Image Pretraining (CLIP)?**
 
@@ -1609,7 +1609,7 @@ d) Classifying images based on abstract or compositional textual descriptions th
 
 
 ## Video 23 - Approaches to Object Detection
-[Watch Video 23 on YouTube](https://www.youtube.com/watch?v=5wBk0cN0N9k&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=23)
+* [Watch Video 23 on YouTube](https://youtu.be/13geNm84sns)
 
 ### **What are the typical components combined in the loss function for training an object detector?**
 
@@ -1699,8 +1699,8 @@ c) Enabling open-set or language-guided detection, where objects can be detected
 d) Demonstrating superior performance specifically in handling heavily occluded objects compared to anchor-based methods.
 
 
-## Video 24 - Approaches to Image Segmentation
-[Watch Video 24 on YouTube](https://www.youtube.com/watch?v=p1T6Y1R_gWU&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=24)
+## Video 24 - Deep Learning Approaches to Image Segmentation
+* [Watch Video 24 on YouTube](https://youtu.be/NtHU9GVccJw)
 
 ### **What is the primary goal of semantic segmentation?**
 
@@ -1791,7 +1791,7 @@ d) It requires extensive fine-tuning with large amounts of labeled data for each
 
 
 ## Video 25 - Image Generation with Diffusion Models
-[Watch Video 25 on YouTube](https://www.youtube.com/watch?v=VVLH0RPgcWQ&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=25)
+* [Watch Video 25 on YouTube](https://youtu.be/NtHU9GVccJw)
 
 ### **What is the primary goal of the forward diffusion process in diffusion models?**
 
