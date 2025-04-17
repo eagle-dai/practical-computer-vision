@@ -141,7 +141,7 @@ d) It directly specifies the color space (like RGB or Grayscale) used for repres
 
 
 ## Video 3 - PyTorch Image Tensors
-[Watch Video 3 on YouTube](https://www.youtube.com/watch?v=wYqI3b7RkQI&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=3)
+* [Watch Video 3 on YouTube](https://youtu.be/DQlngcHaKd4?si=8j0gE6PuBchG8SkI)
 
 ### **What are the primary advantages of using PyTorch tensors over NumPy ndarrays for deep learning?**
 
@@ -199,7 +199,7 @@ d) To convert the PyTorch tensor into an equivalent NumPy array for compatibilit
 
 
 ## Video 4 - Neural Network Fundamentals
-[Watch Video 4 on YouTube](https://www.youtube.com/watch?v=V2i0jC3l174&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=4)
+* [Watch Video 4 on YouTube](https://youtu.be/-hLo6ueEQdw?si=LFeJOYpPDSFILRly)
 
 ### **What is the purpose of training a neural network?**
 
@@ -278,8 +278,8 @@ c) The batch size specifies the number of training samples used to compute the l
 d) Using a smaller batch size always leads to more stable and faster convergence compared to using a larger batch size.
 
 
-## Video 5 - Multilayer Perceptron for Regression
-[Watch Video 5 on YouTube](https://www.youtube.com/watch?v=Fpe6MWQeJdI&list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH&index=5)
+## Video 5 - Multilayer Perceptron for Image-based Regression
+* [Watch Video 5 on YouTube](https://youtu.be/cr4NMVKJzaw?si=7od6aViPMYSWI5xs)
 
 ### **What are the three key components of a basic multilayer perceptron architecture illustrated in the initial example? (Assume that all layers are fully connected)**
 
