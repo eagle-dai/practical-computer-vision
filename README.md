@@ -32,7 +32,8 @@
 
 ## Watch the Series on YouTube
 
-* [YouTube Playlist](https://www.youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH)
+* [YouTube playlist](https://www.youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH)
+* [Review questions for each video](https://github.com/andandandand/practical-computer-vision/blob/main/docs/review_questions.md)
 
 ## Discuss with the FiftyOne Community on Discord
 You can find us in the channel **#practical-computer-vision-workshops**
