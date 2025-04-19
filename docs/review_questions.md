@@ -200,7 +200,7 @@ d) To convert the PyTorch tensor into an equivalent NumPy array for compatibilit
 
 
 ## Video 4 - Introduction to Neural Networks 
-* [Watch Video 4 on YouTube](https://youtu.be/-hLo6ueEQdw?si=LFeJOYpPDSFILRly)
+* [Watch Video 4 on YouTube](https://www.youtube.com/watch?v=QrblN6UM_cI)
 
 ### **What is the purpose of training a neural network?**
 
