@@ -28,6 +28,7 @@
 * [Running Imagenet-pretrained Resnets for classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Labeling_Images_with_a_Pretrained_Resnet.ipynb)
 * [Interpretability with Class Activation Mapping](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Interpretability_with_Class_Activation_Mapping.ipynb)
 * [Fine-tuning a Resnet for multilabel classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Finetuning_a_Resnet_for_Multilabel_Classification.ipynb)
+* [Semantic Segmentation with U-Net](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/U-net_Tutorial.ipynb)
 * [Introduction to CLIP and Zero Shot Classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Intro_to_CLIP_ZeroShot_Classification.ipynb)
 
 ## Watch the Series on YouTube
