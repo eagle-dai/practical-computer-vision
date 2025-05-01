@@ -31,13 +31,16 @@
 * [Semantic Segmentation with U-Net](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/U-net_Tutorial.ipynb)
 * [Introduction to CLIP and Zero Shot Classification](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Intro_to_CLIP_ZeroShot_Classification.ipynb)
 
+## Course with Evaluations on openHPI
+* [Practical Computer Vision with PyTorch on openHPI](https://open.hpi.de/courses/computervision2025)
+
 ## Watch the Series on YouTube
 
 * [YouTube playlist](https://www.youtube.com/playlist?list=PLf-F6yXx9sp9YgRLzuegQWxA71XD13tVH)
 * [Review questions for each video](https://github.com/andandandand/practical-computer-vision/blob/main/docs/review_questions.md)
 
 ## Discuss with the FiftyOne Community on Discord
-You can find us in the channel **#practical-computer-vision-workshops**
+You can find us in the channel **#practical-computer-vision-workshops** to discuss the content 
 * [FiftyOne community Discord - Invite Link](https://discord.com/invite/fiftyone-community)
 * [Direct channel link](https://discord.com/channels/1266527359511564372/1345119286041116763) (you must use the Invite Link first)
 
