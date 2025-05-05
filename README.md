@@ -15,6 +15,7 @@
 
 * [Digital Image Representation in PIL, NumPy, and PyTorch](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Digital_Image_Representation_PIL_NumPy_PyTorch.ipynb)
 * [Training a Multilayer Perceptron for Image-based Regression](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Training_a_Multilayer_Perceptron_for_Image_based_Regression.ipynb)
+* [Matrix Multiplication, Non-linear Activations, and Network Shape]()
 * [Predicting Car Prices Based on their Images](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Predicting_Car_Prices_Based_on_Their_Images.ipynb)
 * [Fundamentals of Convolutional Networks with LeNet5 on Kaggle's Digit Recognition Competition](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Kaggle_Competition_LeNet5_Digit_Recognition.ipynb)
 * [Looking into LeNet5 with Random Weight Initialization](https://github.com/andandandand/practical-computer-vision/blob/main/notebooks/Looking_into_LeNet5_with_Random_Weights.ipynb)
